@@ -22,3 +22,7 @@ This project is a simple  and effective  fire alarm system that uses an Arduino 
 # ⚙️Functionality
 When the fire alarm system is powered on and the  display shows the current temperature and a message of whether there is fire danger.
 The user can adjust the temperature of room and move the smoke around the gas sensor to experiment the system .If the gas sensor detects a flame within the specified distance, the buzzer is triggered and the red LED is activated, while the 7-segment display shows a text according to its danger .If there is no gas within the specified distance the green LED keeps being lighted on.
+You can test the fanctionality of the system on this link : https://www.tinkercad.com/things/3JvuWYWfnG1
+
+![image](https://github.com/greenpainog/FireAlarmSystem/assets/151459815/0ecdb0cd-a03b-4f74-a362-89e39c5688ba)
+
